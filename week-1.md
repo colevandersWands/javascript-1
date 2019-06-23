@@ -157,6 +157,9 @@ The goal of the project is to make it work __not__ to understand everything you 
     * [sitepoint: lexical & block scope](https://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting/)
     * [codeburst: lexical & block scope](https://codeburst.io/javascript-learn-understand-scope-f53d6592c726)
 * statements vs expressions: [one](https://en.hexlet.io/courses/intro_to_programming/lessons/expressions/theory_unit), [two](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2). Most simply: if it takes one step in python tutor, it's a statement.  If it has an operator, it's an expression.  A line of code can be both a statement and an expression
+* functions:
+    * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+    * [javascript.info](https://javascript.info/function-basics)
 
 #### JS study tools
 * [chrome inspector](https://javascript.info/debugging-chrome)
